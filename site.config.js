@@ -13,7 +13,7 @@ const CONFIG = {
   projects: [
     {
       name: `狼友收藏夹`,
-      href: "xxx.com",
+      href: "https://shoucangjia.link/about",
     },
   ],
   // blog setting (required)
